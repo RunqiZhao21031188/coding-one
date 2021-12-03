@@ -1,4 +1,5 @@
-# coding-one
+# coding-one 
+Element 2: Weekly homework
 
 ## W1
 https://mimicproject.com/code/46bf1f7b-8e77-a3a5-8925-1b45903ebb0b
