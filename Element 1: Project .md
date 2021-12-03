@@ -2,7 +2,8 @@
 this is my mimic link
 https://mimicproject.com/code/bea2b2ae-ce90-ba3f-3a3c-dc6939fd5174
 
-this is my video link
+this is my video link on YOUTUBE
+https://youtu.be/AOvRrYzc4KM![image](https://user-images.githubusercontent.com/91619237/144607793-65807bed-8784-44fe-abc0-0d2b1a874650.png)
 
 
 <img src="https://github.com/RunqiZhao21031188/1/blob/main/1212.png" width="600px" height="300px" alt="lab00-01"/>
